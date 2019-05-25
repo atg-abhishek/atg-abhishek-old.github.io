@@ -6,17 +6,45 @@
     <description>Recent content in Abhishek Gupta | AI Ethics on Abhishek Gupta | AI Ethics Researcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 31 Oct 2017 22:26:09 -0500</lastBuildDate>
     
 	<atom:link href="https://atg-abhishek.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Conferences and Speaking Engagements</title>
+      <title>Current Work</title>
+      <link>https://atg-abhishek.github.io/about/currentwork/</link>
+      <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
+      
+      <guid>https://atg-abhishek.github.io/about/currentwork/</guid>
+      <description>Featured picture courtesy of the McGill Physics Hackathon
+Areas of research, application and community engagement  I founded the Montreal AI Ethics Institute with the vision of creating tangible and practical research in the ethical, safe and inclusive development of AI. See the link for more details - Montreal AI Ethics Institute I founded the meetup group on AI Ethics in Montreal that meets once every two weeks to do a deep dive on different aspects of the ethical development of AI.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://atg-abhishek.github.io/about/publications/</link>
+      <pubDate>Tue, 31 Oct 2017 22:25:09 -0500</pubDate>
+      
+      <guid>https://atg-abhishek.github.io/about/publications/</guid>
+      <description>Featured image courtesy of the Brookfield IIE
+Privacy and Security in AI REWORK White Paper Series
+Paper Link
+AI Ethics: Inclusivity in Smart Cities Montreal AI Ethics Institute Presented at WEF 4IR 2018 Summit
+Article Link
+Artificial Intelligence as a Force For Good Stanford Social Innovation Review Technology Section
+Article Link
+Inclusive Design - Methods to ensure a high degree of participation in Artificial Intelligence (AI) systems Oxford Internet Institute Oxford University - Connected Life 2018</description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
       <link>https://atg-abhishek.github.io/about/conferences/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 31 Oct 2017 22:24:09 -0500</pubDate>
       
       <guid>https://atg-abhishek.github.io/about/conferences/</guid>
-      <description>SPEAKER NORTH AMERICAN REGIONAL SUMMIT (AMERICAN UNIVERSITY OF BEIRUT) MONTREAL 2018 The Future of AI: Utopia or Dystopia?
+      <description>Featured image courtesy of REWORK
+SPEAKER NORTH AMERICAN REGIONAL SUMMIT (AMERICAN UNIVERSITY OF BEIRUT) MONTREAL 2018 The Future of AI: Utopia or Dystopia?
 NARS AUB Summit Montreal 2018
 PANELIST TECHSTARS MONTREAL 2018 Panel on regulations and legal frameworks on data privacy
 Invite only event
@@ -26,30 +54,43 @@ PANELIST REWORK AI FOR GOVERNMENT SUMMIT TORONTO 2018 AI for Law Enforcement and
     </item>
     
     <item>
-      <title>Current Work</title>
-      <link>https://atg-abhishek.github.io/about/currentwork/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://atg-abhishek.github.io/about/currentwork/</guid>
-      <description>Areas of research, application and community engagement  I founded the Montreal AI Ethics Institute with the vision of creating tangible and practical research in the ethical, safe and inclusive development of AI. See the link for more details - Montreal AI Ethics Institute I founded the meetup group on AI Ethics in Montreal that meets once every two weeks to do a deep dive on different aspects of the ethical development of AI.</description>
-    </item>
-    
-    <item>
       <title>Media Coverage</title>
       <link>https://atg-abhishek.github.io/about/mediacoverage/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 31 Oct 2017 22:22:09 -0500</pubDate>
       
       <guid>https://atg-abhishek.github.io/about/mediacoverage/</guid>
-      <description></description>
+      <description>Featured image courtesy of AI for Good Global Summit
+QUAND L’INTELLIGENCE ARTIFICIELLE DÉRAPE L&amp;rsquo;ACTUALITÉ December 5, 2018
+Article Link
+DON&amp;rsquo;T OUTSOURCE KILLING TO AI, AND OTHER PRINCIPLES IN THE MONTREAL DECLARATION FOR ETHICAL TECH CBC December 4, 2018
+Article Link
+SHOULD YOU TELL AN EMPLOYEE IF THEY&amp;rsquo;RE TALKING TO A ROBOT? HRTECH NEWS November 4, 2018
+Article Link
+Q&amp;amp;A WITH ABHISHEK GUPTA, FOUNDER OF THE MONTREAL AI ETHICS INSTITUTE MCGILL DOBSON CHRONICLES November 17, 2018</description>
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>https://atg-abhishek.github.io/about/publications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Videos</title>
+      <link>https://atg-abhishek.github.io/about/videos/</link>
+      <pubDate>Tue, 31 Oct 2017 22:21:09 -0500</pubDate>
       
-      <guid>https://atg-abhishek.github.io/about/publications/</guid>
-      <description></description>
+      <guid>https://atg-abhishek.github.io/about/videos/</guid>
+      <description>Screenshot from the BorealisAI Northern Frontier Series featured interview on AI ethics
+Interview with BorealisAI BorealisAI Interview with BorealisAI that took a dive into the threat automation poses to job loss based on the current science, whether bias is the biggest problem we face in responsible AI, and what we should consider reasonable trade-offs for improving fairness.
+
+Framework for the ethical development of AI Montreal AI Symposium Presentation at the Montreal AI Symposium on a framework for ethical development of AI systems</description>
+    </item>
+    
+    <item>
+      <title>Canada Protocol</title>
+      <link>https://atg-abhishek.github.io/about/canadaprotocol/</link>
+      <pubDate>Tue, 31 Oct 2017 22:20:09 -0500</pubDate>
+      
+      <guid>https://atg-abhishek.github.io/about/canadaprotocol/</guid>
+      <description>For more information, please visit the Canada Protocol website
+The Canada Protocol is an open-access project for Artificial Intelligence and Big Data developers, decision-makers, professionals, researchers, and anyone thinking about using AI. It was created by Carl Mörch and Abhishek Gupta in Montreal, Canada.
+It started as a part of Carl Mörch’s Ph.D. The Mental Health version was scientifically supervised by Brian L. Mishara, his Ph.D. supervisor.
+AI is a source of immense hopes and valid concerns.</description>
     </item>
     
   </channel>
