@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://atg-abhishek.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://atg-abhishek.github.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://atg-abhishek.github.io/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://atg-abhishek.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://atg-abhishek.github.io/about/conferences/</loc>
+  </url>
+  
+  <url>
+    <loc>https://atg-abhishek.github.io/about/currentwork/</loc>
+  </url>
+  
+  <url>
+    <loc>https://atg-abhishek.github.io/about/mediacoverage/</loc>
+  </url>
+  
+  <url>
+    <loc>https://atg-abhishek.github.io/about/publications/</loc>
+  </url>
+  
+  <url>
+    <loc>https://atg-abhishek.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
