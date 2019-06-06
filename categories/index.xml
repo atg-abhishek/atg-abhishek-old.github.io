@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Abhishek Gupta | AI Ethics Researcher</title>
+    <title>Categories on Abhishek Gupta | AI Ethics Researcher | Machine Learning Engineer</title>
     <link>https://atg-abhishek.github.io/categories/</link>
-    <description>Recent content on Abhishek Gupta | AI Ethics Researcher</description>
+    <description>Recent content in Categories on Abhishek Gupta | AI Ethics Researcher | Machine Learning Engineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Oct 2017 22:26:09 -0500</lastBuildDate>
@@ -12,12 +12,16 @@
     
     
     <item>
-      <title>Current Work</title>
-      <link>https://atg-abhishek.github.io/about/currentwork/</link>
+      <title></title>
+      <link>https://atg-abhishek.github.io/categories/</link>
       <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
       
-      <guid>https://atg-abhishek.github.io/about/currentwork/</guid>
-      <description>Featured picture courtesy of the McGill Physics Hackathon
+      <guid>https://atg-abhishek.github.io/categories/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>thon
 Areas of research, application and community engagement  I founded the Montreal AI Ethics Institute with the vision of creating tangible and practical research in the ethical, safe and inclusive development of AI. See the link for more details - Montreal AI Ethics Institute I founded the meetup group on AI Ethics in Montreal that meets once every two weeks to do a deep dive on different aspects of the ethical development of AI.</description>
     </item>
     
